@@ -1,0 +1,10 @@
+/out/*
+/.idea/*
+/bin/*
+
+
+*.json
+*.xml
+*.class
+*.iml
+
